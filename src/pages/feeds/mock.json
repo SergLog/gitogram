@@ -1,0 +1,112 @@
+{
+  "stories": [
+    {
+      "id": "0",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Josh"
+    },
+    {
+      "id": "1",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Andrew"
+    },
+    {
+      "id": "2",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Camille"
+    },
+    {
+      "id": "3",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Marselle"
+    },
+    {
+      "id": "4",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Piter"
+    },
+    {
+      "id": "5",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Can"
+    },
+    {
+      "id": "6",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Iloveanime"
+    },
+    {
+      "id": "7",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Diself"
+    },
+    {
+      "id": "8",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Gartor"
+    },
+    {
+      "id": "9",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Camilr"
+    }
+  ],
+  "feeds": [
+    {
+      "id": "0",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "joshua_l",
+      "title": "Vue.js",
+      "text": "<b>Javascript</b> framework for building interactive web applications",
+      "counters": {
+        "star": "156k",
+        "fork": "4"
+      },
+      "comments": [
+        {
+          "id": "0",
+          "username": "joshua_l",
+          "text": "Enable performance measuring in production, at the user's request"
+        },
+        {
+          "id": "1",
+          "username": "Camille",
+          "text": "It's Impossible to Rename an Inherited Slot"
+        },
+        {
+          "id": "2",
+          "username": "Marselle",
+          "text": "transition-group with flex parent causes removed items to fly"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg",
+      "username": "Camille",
+      "title": "React.js",
+      "text": "<b>Open source</b> JavaScript library used for designing user interfaces",
+      "counters": {
+        "star": "156k",
+        "fork": "4"
+      },
+      "comments": [
+        {
+          "id": "0",
+          "username": "joshua_l",
+          "text": "Enable performance measuring in production, at the user's request"
+        },
+        {
+          "id": "1",
+          "username": "Camille",
+          "text": "It's Impossible to Rename an Inherited Slot"
+        },
+        {
+          "id": "2",
+          "username": "Marselle",
+          "text": "transition-group with flex parent causes removed items to fly"
+        }
+      ]
+    }
+  ]
+}

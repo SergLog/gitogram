@@ -32,4 +32,4 @@ export default {
 }
 </script>
 
-<style src="./toggler.scss" lang="scss" scoped></style>
+<styles src="./toggler.scss" lang="scss" scoped></styles>
