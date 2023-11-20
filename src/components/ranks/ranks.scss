@@ -5,9 +5,7 @@
   font-weight: 400;
   line-height: 18px;
 
-  &
-
-  .btnWithCount {
+  & .rank {
     display: flex;
     border: 1px rgba(27, 31, 35, 0.15) solid;
     box-shadow: 0px 1px 0px rgba(27, 31, 35, 0.04);
@@ -15,11 +13,6 @@
     align-items: center;
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
-  
-    .left, .right {
-      display: flex;
-      padding: 6px 12px;
-    }
   
     .icon {
       color: #586069;
@@ -36,15 +29,18 @@
       }
     }
 
-    .left {
+    .rank-icon {
+      display: flex;
       background: #FAFBFC;
+      padding: 6px 12px;
     }
 
-    .right {
+    .rank-text {
       border-left: 1px rgba(27, 31, 35, 0.15) solid;
+      padding: 6px 12px;
     }
 
-    + .btnWithCount {
+    + .rank {
       border-radius: 0px;
       border-top-right-radius: 6px;
       border-bottom-right-radius: 6px;

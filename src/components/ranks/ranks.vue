@@ -1,23 +1,23 @@
 <template>
   <div class="c-ranks">
-    <button class="btnWithCount" @click="$emit('onStarClick')">
-      <div class="left">
+    <div class="rank">
+      <div class="rank-icon">
         <div class="icon">
           <icon name="star" />
         </div>
         <span class="text">Star</span>
       </div>
-      <div class="right">{{ star }}</div>
-    </button>
-    <button class="btnWithCount" @click="$emit('onForkClick')">
-      <div class="left">
+      <div class="rank-text">{{ star }}</div>
+    </div>
+    <div class="rank">
+      <div class="rank-icon">
         <div class="icon">
           <icon name="fork" />
         </div>
         <span class="text">Fork</span>
       </div>
-      <div class="right">{{ fork }}</div>
-    </button>
+      <div class="rank-text">{{ fork }}</div>
+    </div>
   </div>
 </template>
 
