@@ -1,0 +1,76 @@
+{
+  "stories": [
+    {
+      "id": "0",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Josh"
+    },
+    {
+      "id": "1",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Andrew"
+    },
+    {
+      "id": "2",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Camille"
+    },
+    {
+      "id": "3",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Marselle"
+    },
+    {
+      "id": "4",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Piter"
+    },
+    {
+      "id": "5",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Can"
+    },
+    {
+      "id": "6",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Iloveanime"
+    },
+    {
+      "id": "7",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Diself"
+    },
+    {
+      "id": "8",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Gartor"
+    },
+    {
+      "id": "9",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "Camilr"
+    }
+  ],
+  "feeds": [
+    {
+      "id": "0",
+      "avatar": "https://img.freepik.com/premium-vector/man-male-character-avatar-vector-portrait-stylish-type-clothes-with-glasses-and-mustaches-modern_491904-61.jpg",
+      "username": "joshua_l",
+      "feed": {
+        "title": "Vue.js",
+        "text": "<b>Javascript</b> framework for building interactive web applications",
+        "counts": {
+          "star": "156k",
+          "fork": "4"
+        }
+      },
+      "comments": [
+        {
+          "id": "0",
+          "username": "joshua_l",
+          "text": "Enable performance measuring in production, at the user's request"
+        }        
+      ]
+    }    
+  ]
+}
