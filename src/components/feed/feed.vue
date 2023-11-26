@@ -28,7 +28,7 @@ import { toggler } from '../toggler'
 import { user } from '../user'
 
 export default {
-  name: 'feed-item',
+  name: 'feed',
   components: {
     comment,
     toggler,
