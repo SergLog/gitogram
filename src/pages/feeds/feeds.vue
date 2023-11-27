@@ -67,7 +67,7 @@ import { ranks } from "@/components/ranks";
 import avatar from "@/assets/avatar.png";
 import mock from "./mock.json";
 
-import { getPopular } from "../../api/rest/popular";
+import * as api from '../../api'
 
 export default {
   name: "feeds",
@@ -89,7 +89,7 @@ export default {
     this.mock = mock
 
     try {
-      const { data } = await getPopular();
+      const { data } = await api.popular.getPopular();
       this.items = data.items;
     } catch (error) {
       console.log(error);
